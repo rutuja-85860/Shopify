@@ -1,0 +1,27 @@
+
+.outer{
+    height:60vh;
+   background-color: aqua;
+   display: flex;
+}
+/* .inner1{
+    height: 60vh;
+    width: 45vw;
+    background-color: brown;
+    display: flex;
+}
+.inner2{
+    height: 60vh;
+    width: 45vw;
+    background-color: rgb(60, 179, 13);
+}
+.inner1 h1{
+    font-size:35px;
+    margin-top:20px;
+    
+}
+.sec{
+    background-color: beige;
+    height: 30vh;
+    width:25vw ;
+} */
